@@ -91,4 +91,70 @@ footer {
   position: fixed;
   width: 100%;
   bottom: 0;
+  
+}
+#skills {
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+#skills ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#skills li {
+  margin-bottom: 20px;
+}
+
+#skills p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#skills .progress {
+  background-color: #ddd;
+  height: 20px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+#skills .progress-bar {
+  background-color: #337ab7;
+  height: 20px;
+  border-radius: 10px;
+}
+
+#skills span {
+  font-size: 16px;
+  margin-left: 10px;
+}
+#contact {
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+
+#contact ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#contact li {
+  margin-bottom: 20px;
+}
+
+#contact p {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#contact a {
+  text-decoration: none;
+  color: #337ab7;
+}
+
+#contact a:hover {
+  color: #23527c;
 }
